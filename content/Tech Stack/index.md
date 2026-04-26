@@ -11,3 +11,4 @@ How Kedco FX is built.
 - [[Tech Stack/Database|Database]] — PostgreSQL
 - [[Tech Stack/Testing|Testing]] — Playwright E2E + pytest
 - [[Tech Stack/Deployment|Deployment]] — Vercel (frontend), systemd (API)
+- [[Tech Stack/Security|Security]] — JWT, rate limiting, idle timeout
